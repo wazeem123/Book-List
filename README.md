@@ -7,7 +7,7 @@ make sure that you have installed npm (https://www.npmjs.com/get-npm)
 
 ### `npm install`
 
-open the terminal or cmd and navigate to the "Book List" folder<br />
+open the terminal or cmd and navigate to the "Book-List-main" folder<br />
 Run the command : npm install
 
 ### `npm start`
