@@ -6,12 +6,12 @@ make sure that you have installed npm (https://www.npmjs.com/get-npm)
 
 ### `npm install`
 
-open the terminal or cmd and navigate to the <h6>Book List</h6> folder
-Run the command : <h5>npm install</h5>
+open the terminal or cmd and navigate to the "Book List" folder
+Run the command : npm install
 
 ### `npm start`
 
-Run the command : <h5>npm start</h5>
+Run the command : npm start
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
